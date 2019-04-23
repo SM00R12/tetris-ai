@@ -37,7 +37,7 @@ npm install
 
 From there, you can do
 ```bash
-npm train
+npm run train
 ```
 to run the genetic algorithm. Data is outputted in the *data* folder.
 
